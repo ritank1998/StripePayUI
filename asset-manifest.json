@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StripePayUI/static/css/main.170ec5db.css",
+    "main.js": "/StripePayUI/static/js/main.e7d8a374.js",
+    "static/js/787.ca291ead.chunk.js": "/StripePayUI/static/js/787.ca291ead.chunk.js",
+    "index.html": "/StripePayUI/index.html",
+    "main.170ec5db.css.map": "/StripePayUI/static/css/main.170ec5db.css.map",
+    "main.e7d8a374.js.map": "/StripePayUI/static/js/main.e7d8a374.js.map",
+    "787.ca291ead.chunk.js.map": "/StripePayUI/static/js/787.ca291ead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170ec5db.css",
+    "static/js/main.e7d8a374.js"
+  ]
+}
