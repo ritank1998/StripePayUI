@@ -6,6 +6,8 @@ In Main Folder run `Npm install`
 
 Set the Default Default Port as per your choice and Make the required changes in the Api call on for Backend in the UI.
 
+Change the Stripe_Key to capture the payments.
+
 Run `npm start in the Backend & Main Folder`
 
 
