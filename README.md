@@ -1,5 +1,7 @@
 # Getting Started with this Stripe Payment App.
 
+UI Can be Viewed on `https://ritank1998.github.io/StripePayUI/`
+
 Clone the project 
 In Backend run `npm install`
 In Main Folder run `Npm install`
