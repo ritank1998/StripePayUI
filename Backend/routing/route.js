@@ -1,8 +1,7 @@
 import express from "express"
 import CircularJSON from "circular-json"
 import Stripe from "stripe"
-const STRIPE_KEY = 'sk_test_51Nv0dVSHUS8UbeVicJZf3XZJf72DL9Fs3HP1rXnQzHtaXxMKXwWfua2zi8LQjmmboeNJc3odYs7cvT9Q5YIChY5I00Pocly1O1'
-const HOST_KEY = 'sk_test_51OEpcJSD13T9V6q5WlrcLh9n7ty3chdb9G23w5UGdeeKjzUZjay8Dp3ukT2O8A2jIeYdUwcj7M72Yokt0r05Rhac00KRsQAAVR'
+const STRIPE_KEY = 'YOUR_STRIPE_KEY_HERE'
 
 //to create a product completely we need to create a product then create its price then pass its priceId as a Meta data to update the product
 // export const createProduct = async (req, res) => {
