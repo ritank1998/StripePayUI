@@ -2,11 +2,11 @@
 
 UI Can be Viewed on `https://ritank1998.github.io/StripePayUI/`
 
-Clone the project 
-In Backend run `npm install`
+Clone the project ,
+In Backend run `npm install`,
 In Main Folder run `Npm install`
 
-Set the Default Default Port as per your choice and Make the required changes in the Api call on for Backend in the UI.
+Set the Default Default Port as per your choice and Make the required changes in the Api call for Backend on the UI.
 
 Change the Stripe_Key to capture the payments.
 
