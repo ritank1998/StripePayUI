@@ -1,3 +1,15 @@
+# Getting Started with this Stripe Payment App.
+
+Clone the project 
+In Backend run `npm install`
+In Main Folder run `Npm install`
+
+Set the Default Default Port as per your choice and Make the required changes in the Api call on for Backend in the UI.
+
+Run `npm start in the Backend & Main Folder`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
