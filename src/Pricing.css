@@ -1,0 +1,158 @@
+ul{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+ul li{
+    padding: 20px;
+    display: inline-block;
+}
+.btn{
+    margin-top: 20px;
+    width: 100px;
+}
+.card{
+    width: 300px;
+    height: 180px;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px
+}
+.card-img-top{
+    width: 150px;
+    height: 90px;
+    margin-left: 60px;
+}
+@media screen and (max-width: 1080px){
+    ul{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+   
+}
+@media screen and (max-width: 1020px){
+    ul{
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+   
+}
+@media screen and (max-width: 720px){
+    ul{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+   
+}
+@media screen and (max-width: 620px){
+    ul{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+   
+}
+@media screen and (max-width: 580px){
+    ul{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 80px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+   
+}
+@media screen and (max-width: 420px){
+    ul{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+    ul li{
+        
+        padding: 90px;
+        display: flex;
+        flex-direction: column;
+    }   
+    .btn{
+        margin-top: 20px;
+        width: 100px;
+    }
+    .card{
+        
+        margin-top: 20px;
+        width: 700px;
+    }
+    
+   
+}

@@ -1,0 +1,72 @@
+{
+    "session": {
+        "id": "cs_test_a1K4JF6ws2ZnCoHRZRD2HOuGp1U0t25K9iBoew3FKhGvz4xDg9h7T4F1mO",
+        "object": "checkout.session",
+        "after_expiration": null,
+        "allow_promotion_codes": null,
+        "amount_subtotal": 10000,
+        "amount_total": 10000,
+        "automatic_tax": {
+            "enabled": false,
+            "status": null
+        },
+        "billing_address_collection": null,
+        "cancel_url": null,
+        "client_reference_id": null,
+        "client_secret": null,
+        "consent": null,
+        "consent_collection": null,
+        "created": 1700482764,
+        "currency": "inr",
+        "currency_conversion": null,
+        "custom_fields": [],
+        "custom_text": {
+            "shipping_address": null,
+            "submit": null,
+            "terms_of_service_acceptance": null
+        },
+        "customer": null,
+        "customer_creation": "always",
+        "customer_details": null,
+        "customer_email": null,
+        "expires_at": 1700569164,
+        "invoice": null,
+        "invoice_creation": null,
+        "livemode": false,
+        "locale": null,
+        "metadata": {},
+        "mode": "subscription",
+        "payment_intent": null,
+        "payment_link": null,
+        "payment_method_collection": "always",
+        "payment_method_configuration_details": {
+            "id": "pmc_1NvDYwSHUS8UbeViCzjTKEg9",
+            "parent": null
+        },
+        "payment_method_options": null,
+        "payment_method_types": [
+            "card"
+        ],
+        "payment_status": "unpaid",
+        "phone_number_collection": {
+            "enabled": false
+        },
+        "recovered_from": null,
+        "setup_intent": null,
+        "shipping_address_collection": null,
+        "shipping_cost": null,
+        "shipping_details": null,
+        "shipping_options": [],
+        "status": "open",
+        "submit_type": null,
+        "subscription": null,
+        "success_url": "https://example.com/success",
+        "total_details": {
+            "amount_discount": 0,
+            "amount_shipping": 0,
+            "amount_tax": 0
+        },
+        "ui_mode": "hosted",
+        "url": "https://checkout.stripe.com/c/pay/cs_test_a1K4JF6ws2ZnCoHRZRD2HOuGp1U0t25K9iBoew3FKhGvz4xDg9h7T4F1mO#fidkdWxOYHwnPyd1blpxYHZxWjA0S3M1YVNWTVBWPVBnYFNsbWdiUnNUdzR%2FVHZ3dHZvQj13Tjw9aVIycEM0N2RrZm9CUWNuXDBvcFVPb3xHNWdiV0gwNU5qb0RscjFsNDxgfT1oUm5TNGxzNTVDVU1%2FR1NdfScpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl"
+    }
+}
