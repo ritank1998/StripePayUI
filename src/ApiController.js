@@ -2,7 +2,7 @@ export const handleBuyClick = async (product) => {
     console.log("product", product);
   
     try {
-      const response = await fetch("http://localhost:1103/stripe/createsubs", {
+      const response = await fetch("http://localhost:7777/stripe/createsubs", {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -28,7 +28,7 @@ export const handleBuyClick = async (product) => {
 
   export const handleToBuyItem = async(item)=>{
     try {
-      const response = await fetch("http://localhost:1103/stripe/payproduct", {
+      const response = await fetch("http://localhost:7777/stripe/payproduct", {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -1,5 +1,5 @@
 import express from "express"
-import {createProductPayment,createSubscription,splitPay,connectedAccounts} from "../routing/route.js"
+import {createProductPayment,createSubscription,splitPay} from "../routing/route.js"
 const router = express.Router()
 
 
@@ -8,7 +8,6 @@ const router = express.Router()
 router.post("/createsubs" , createSubscription)
 router.post("/payproduct" , createProductPayment)
 router.post("/split" , splitPay)
-router.get("/acc" , connectedAccounts)
 
 
 
